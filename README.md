@@ -1,6 +1,8 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 😊 I am Naman Lalit, pursuing a Master's in Computer Science at New York University Courant.<br>
-🔭 I am passionate about software development, data science, and machine learning.<br>
+🔭 I have about 2+ years of work experience as a Software Engineer at Salesforce, Naukri.com, and CRED.<br>
+💬 I am passionate about software development, data science, and machine learning.<br>
+
 
 ## Technologies and Tools
 <p>
