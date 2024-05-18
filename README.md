@@ -17,14 +17,17 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<!--   <img alt="Flask" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="React.js" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> -->
-  
-  
+  <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="React.js" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/google%20cloud%20-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-%230A0A0A.svg?&style=for-the-badge&logo=AI&logoColor=white"/>
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-%230A0A0A.svg?&style=for-the-badge&logo=AI&logoColor=white"/>
 </p>
 
 ## Where to find me
