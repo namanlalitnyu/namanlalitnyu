@@ -34,14 +34,10 @@
 
 ## Where to find me
 <p><a href="https://github.com/namanlalitnyu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/namanlalit/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="mailto:naman.lalit@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</a> 
+  <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> </a> </a> 
 </p>
 
-## Resume 
-<a href="https://drive.google.com/file/d/1N0cpA5WbCihMjWG7B_2Dea_CO3kieUGb/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-%23FFA500.svg?&style=for-the-badge&logo=Resume&logoColor=white"/>
-</a>
+## Get to know me more 
+> https://namanlalitnyu.github.io
 
 
