@@ -1,5 +1,5 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-😊 I am Naman Lalit, currently working at Meta and building the AI-Infra for the LLM Inference team.<br>
+😊 I am Naman Lalit, currently working at Meta and part of the LLM Inference team in the Meta Superintelligence Lab.<br>
 💬 I graduated with my Master's in Computer Science from New York University Courant.<br>
 🔭 I have about 2+ years of work experience as a Software Engineer at Salesforce, Naukri.com, and CRED.<br>
 
